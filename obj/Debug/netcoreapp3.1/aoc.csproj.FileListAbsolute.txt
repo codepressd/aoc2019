@@ -1,0 +1,11 @@
+/Users/chrisreeder/projects/aoc/bin/Debug/netcoreapp3.1/aoc
+/Users/chrisreeder/projects/aoc/bin/Debug/netcoreapp3.1/aoc.deps.json
+/Users/chrisreeder/projects/aoc/bin/Debug/netcoreapp3.1/aoc.runtimeconfig.json
+/Users/chrisreeder/projects/aoc/bin/Debug/netcoreapp3.1/aoc.runtimeconfig.dev.json
+/Users/chrisreeder/projects/aoc/bin/Debug/netcoreapp3.1/aoc.dll
+/Users/chrisreeder/projects/aoc/bin/Debug/netcoreapp3.1/aoc.pdb
+/Users/chrisreeder/projects/aoc/obj/Debug/netcoreapp3.1/aoc.csprojAssemblyReference.cache
+/Users/chrisreeder/projects/aoc/obj/Debug/netcoreapp3.1/aoc.AssemblyInfoInputs.cache
+/Users/chrisreeder/projects/aoc/obj/Debug/netcoreapp3.1/aoc.AssemblyInfo.cs
+/Users/chrisreeder/projects/aoc/obj/Debug/netcoreapp3.1/aoc.dll
+/Users/chrisreeder/projects/aoc/obj/Debug/netcoreapp3.1/aoc.pdb

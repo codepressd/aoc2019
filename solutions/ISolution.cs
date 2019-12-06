@@ -1,0 +1,4 @@
+interface ISolution
+{
+    int RunSolution();
+}
